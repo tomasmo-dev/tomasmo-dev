@@ -1,4 +1,4 @@
-bash````
+bash```
 > help --info Tomas Moravec
 
 NAME
@@ -35,4 +35,4 @@ For more information, use the following commands:
     help --projects
     help --skills
     help --contact
-````
+```
