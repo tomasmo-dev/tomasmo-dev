@@ -1,5 +1,5 @@
 ````bash
-> help --info Tomas Moravec
+> man Tomas-Moravec
 
 NAME
     Tomas Moravec - Software Developer
@@ -30,9 +30,4 @@ SKILLS
 
 DESCRIPTION
     Dedicated software developer specializing in web development and server administration.
-
-For more information, use the following commands:
-    help --projects
-    help --skills
-    help --contact
 ````
