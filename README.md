@@ -1,12 +1,14 @@
-````bash
 > help --info Tomas Moravec
 
 NAME
     Tomas Moravec - Software Developer
 
 CONTACT
-    Email: info@tomas-moravec.dev
-    GitHub: github.com/tomasmo-dev
+    Email: info [at] tomas-moravec.dev
+    Website: https://tomas-moravec.dev
+    GitHub: @tomasmo-dev
+    LinkedIn: linkedin.com/in/moravectomas
+    Instagram: @moravec.to
 
 EDUCATION
     High School and College of Applied Cybernetics s.r.o.
@@ -28,13 +30,7 @@ SKILLS
 DESCRIPTION
     Dedicated software developer specializing in web development and server administration.
 
-````
-
-````bash
-> help --contact
-> website: https://tomas-moravec.dev
-> linkedin: [Tomas Moravec](https://www.linkedin.com/in/moravectomas/)
-> instagram: @moravec.to
-> github: @tomasmo-dev
-> mailto: info [at] tomas-moravec.dev
-````
+For more information, use the following commands:
+    help --projects
+    help --skills
+    help --contact
