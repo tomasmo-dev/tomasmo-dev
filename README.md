@@ -1,5 +1,5 @@
 ````bash
-> man Tomas-Moravec
+visitor@github:~$ man Tomas-Moravec
 
 NAME
     Tomas Moravec - Software Developer
