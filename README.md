@@ -12,11 +12,14 @@ CONTACT
     Instagram: @moravec.to
 
 EDUCATION
+    University of Hradec Králové (UHK)
+    Applied Informatics (2025 - present)
+
     High School and College of Applied Cybernetics s.r.o.
-    Programming & IT Networking (2021 - Present)
+    Programming & IT Networking (2021 - 2025)
 
 EXPERIENCE
-    Software Programmer (Remote, 2023 - Present)
+    Software Programmer (Remote, 2023 - 2025)
     - Developed applications for invoice creation and test question management
     - Maintained Linux servers in Google Cloud
 
@@ -25,8 +28,9 @@ PROJECTS
     2. Simple online banking application (C#, ASP.NET, MSSQL)
 
 SKILLS
-    Languages: C#, C/C++, SQL, JavaScript, HTML/CSS, PHP
-    Tools: Git, Docker, Google Cloud Platform, VS Code, Visual Studio
+    Languages: C#, C/C++, Java, Python, SQL, JavaScript, HTML/CSS, PHP, Bash
+    Tools: Git, Docker, Google Cloud Platform, Nginx/Apache, GitHub Actions,
+           VS Code, Visual Studio, IntelliJ
 
 DESCRIPTION
     Dedicated software developer specializing in web development and server administration.
